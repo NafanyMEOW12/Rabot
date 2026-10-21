@@ -1,4 +1,3 @@
-
 name: Build Android APK
 
 on:
@@ -36,3 +35,4 @@ jobs:
         with:
           name: Rabota-debug-apk
           path: app/build/outputs/apk/debug/app-debug.apk
+
